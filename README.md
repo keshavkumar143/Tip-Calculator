@@ -1,2 +1,2 @@
 # Tip-Calculator
-#LIVE WEBSITE LINK ->> SOON
+#LIVE WEBSITE LINK ->> https://typecalc.vercel.app
